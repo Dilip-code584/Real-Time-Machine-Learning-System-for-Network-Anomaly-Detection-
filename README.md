@@ -25,5 +25,4 @@ A hybrid **C++** and **Python** system that uses **real-time packet inspection**
 - TCP/IP Networking  
 - Multiprocessing, Queues
 
-## 📁 Project Structure
 
